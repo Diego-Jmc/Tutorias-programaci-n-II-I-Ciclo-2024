@@ -1,0 +1,14 @@
+# ninja log v5
+16	1002	7322512844383853	CMakeFiles/Decorator.dir/main.cpp.obj	59150fdb7061c103
+1003	1138	7322512845713818	Decorator.exe	d5231b9e69a6e980
+25	925	7322512843603862	CMakeFiles/Decorator.dir/Human.cpp.obj	9f8c4881d922a6f6
+6	909	7322512843423874	CMakeFiles/Decorator.dir/Character.cpp.obj	d63f5d0bc3941778
+34	908	7322512843423874	CMakeFiles/Decorator.dir/SwordDecorator.cpp.obj	b7f9314da5be959e
+21	874	7328522132614226	CMakeFiles/Decorator.dir/RemoveSword.cpp.obj	3919e1cd39b9866
+13	883	7328522132634232	CMakeFiles/Decorator.dir/SwordDecorator.cpp.obj	b7f9314da5be959e
+5	980	7328522133684200	CMakeFiles/Decorator.dir/main.cpp.obj	59150fdb7061c103
+981	1168	7328522135514187	Decorator.exe	63556be62c569425
+5	737	7328522182667048	CMakeFiles/Decorator.dir/main.cpp.obj	59150fdb7061c103
+738	891	7328522184147046	Decorator.exe	63556be62c569425
+7	870	7328522630689516	CMakeFiles/Decorator.dir/main.cpp.obj	59150fdb7061c103
+871	1029	7328522632149530	Decorator.exe	63556be62c569425

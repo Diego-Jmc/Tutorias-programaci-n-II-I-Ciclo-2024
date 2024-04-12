@@ -1,0 +1,12 @@
+# ninja log v5
+6	751	7328556903531322	CMakeFiles/sobrecarga.dir/main.cpp.obj	16407b5820657f5b
+752	903	7328556904961345	sobrecarga.exe	efe5ebb146e62762
+2	275	7328557503654403	build.ninja	4a0bfe74bc5e2503
+6	815	7328556728327631	CMakeFiles/sobrecarga.dir/coleccionPersonas.cpp.obj	3e7022aea807247a
+14	827	7328555106676774	CMakeFiles/sobrecarga.dir/persona.cpp.obj	d1ef87a631ef25e8
+6	706	7328555819062195	CMakeFiles/sobrecarga.dir/selector.cpp.obj	49280aae28d4218f
+6	625	7328561184587516	CMakeFiles/sobrecarga.dir/selectorLugar.cpp.obj	a649f96d7e00df41
+626	772	7328561186007509	sobrecarga.exe	1928b5b350f98bf2
+30	765	7328564360205264	CMakeFiles/sobrecarga.dir/selectorLugar.cpp.obj	a649f96d7e00df41
+16	873	7328564361275266	CMakeFiles/sobrecarga.dir/main.cpp.obj	16407b5820657f5b
+873	1046	7328564362975243	sobrecarga.exe	1928b5b350f98bf2

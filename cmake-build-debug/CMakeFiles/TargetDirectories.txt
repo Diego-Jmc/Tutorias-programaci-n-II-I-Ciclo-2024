@@ -1,0 +1,3 @@
+C:/Users/Diego/Desktop/UNA/Tutorias/Progra II/Tutorias-programaci-n-II-I-Ciclo-2024/cmake-build-debug/CMakeFiles/Tutorias_programaci_n_II_I_Ciclo_2024.dir
+C:/Users/Diego/Desktop/UNA/Tutorias/Progra II/Tutorias-programaci-n-II-I-Ciclo-2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Diego/Desktop/UNA/Tutorias/Progra II/Tutorias-programaci-n-II-I-Ciclo-2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir

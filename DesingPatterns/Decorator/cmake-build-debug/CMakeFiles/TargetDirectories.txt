@@ -1,0 +1,3 @@
+C:/Users/Diego/Desktop/UNA/Tutorias/Progra II/Tutorias-programaci-n-II-I-Ciclo-2024/DesingPatterns/Decorator/cmake-build-debug/CMakeFiles/Decorator.dir
+C:/Users/Diego/Desktop/UNA/Tutorias/Progra II/Tutorias-programaci-n-II-I-Ciclo-2024/DesingPatterns/Decorator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Diego/Desktop/UNA/Tutorias/Progra II/Tutorias-programaci-n-II-I-Ciclo-2024/DesingPatterns/Decorator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

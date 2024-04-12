@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sobrecarga",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sobrecarga::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sobrecarga-Debug-b49da4d6f9c9a5847f4a.json",
+					"name" : "sobrecarga",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Diego/Desktop/UNA/Tutorias/Progra II/Tutorias-programaci-n-II-I-Ciclo-2024/sobrecarga/cmake-build-debug",
+		"source" : "C:/Users/Diego/Desktop/UNA/Tutorias/Progra II/Tutorias-programaci-n-II-I-Ciclo-2024/sobrecarga"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
