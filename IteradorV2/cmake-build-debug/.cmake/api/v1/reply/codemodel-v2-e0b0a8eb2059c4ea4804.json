@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IteradorV2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "IteradorV2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IteradorV2-Debug-bfa4741609f9a1f787b8.json",
+					"name" : "IteradorV2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Diego/Desktop/UNA/Tutorias/Progra II/Tutorias-programaci-n-II-I-Ciclo-2024/IteradorV2/cmake-build-debug",
+		"source" : "C:/Users/Diego/Desktop/UNA/Tutorias/Progra II/Tutorias-programaci-n-II-I-Ciclo-2024/IteradorV2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
