@@ -1,0 +1,11 @@
+# ninja log v5
+26	180	7364820261907097	CMakeFiles/ObjetoBase.dir/Contenedor.cpp.obj	de699c254f20a1df
+11	837	7364820268477087	CMakeFiles/ObjetoBase.dir/ObjetoBase.cpp.obj	f4792b44d383d9a0
+1	899	7364820269057120	CMakeFiles/ObjetoBase.dir/Persona.cpp.obj	fe7ef9b86311f5cb
+5	744	7364820484489947	CMakeFiles/ObjetoBase.dir/main.cpp.obj	7160ee8ac1d204be
+745	881	7364820485809911	ObjetoBase.exe	248488c41c528a92
+3	304	7364829824823412	build.ninja	9f97389da125c4e5
+11	703	7364829833433447	CMakeFiles/ObjetoBase.dir/Contenedor.cpp.obj	de699c254f20a1df
+5	791	7364829834323429	CMakeFiles/ObjetoBase.dir/main.cpp.obj	7160ee8ac1d204be
+18	832	7364829834733406	CMakeFiles/ObjetoBase.dir/Vector.cpp.obj	77b44432620fb4f5
+833	997	7364829836333392	ObjetoBase.exe	9cb9c2745a413cee
